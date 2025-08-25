@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate about **infosec & penetration testing**  
-- ⚡Tools & scripts for pentesting and learning
+- ⚡Sharing Tools & scripts for pentesting and learning
 - 📚 Always learning and sharing knowledge 
 - ✍️ Writing on [Medium](https://medium.com/@oxja)
 
@@ -41,6 +41,9 @@ I actively participate in CTF challenges and document my journey through **write
 <p align="left">
   <a href="https://linkedin.com/in/ahmad-qawaqneh-05a519202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="https://github.com/oxja/oxja/raw/main/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
