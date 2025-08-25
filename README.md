@@ -17,6 +17,10 @@
   <a href="https://certs.ine.com/fdc1ad0e-91ff-4b99-9c8e-644f866c2ecd#acc.oqmzyaxt" target="_blank">
     <img src="https://img.shields.io/badge/eJPT-orange?style=for-the-badge&labelColor=000000" alt="eJPT Certificate"/>
   </a>
+  
+  <a href="https://tryhackme.com/certificate/THM-KBOAIF7IH7" target="_blank">
+    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Jr Penetration Tester"/>
+  </a>
 </p>
 
 ---
