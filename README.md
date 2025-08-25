@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FB542B?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
-*...and other tools from my infosec toolbox like Metasploit, Wireshark, Gobuster, Nikto, SQLmap, and more.*
+*...and other tools from my infosec toolbox like Metasploit, Wireshark, Gobuster, Nikto, SQLmap, and more (not limited to).*
 
 ---
 
