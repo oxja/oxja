@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋 (aka *oxja*)
 
-<!--
-**oxja/oxja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Infosec enthusiast | 🕵️‍♂️ CTF player | 🔐 Aspiring penetration tester  
 
-Here are some ideas to get you started:
+I enjoy solving Capture The Flag (CTF) challenges, breaking things to learn how they work, and documenting my journey through writeups and projects.  
+This GitHub is where I share scripts, notes, and tools that help me (and hopefully you) in the infosec space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I Do
+- 📝 Writeups for CTF challenges  
+- ⚡ Small tools & scripts for pentesting and learning  
+- 📚 Notes & resources from my infosec journey  
+
+---
+
+## 📌 Featured Work
+- [Medium Writeups](https://medium.com/@oxja) – step-by-step CTF solutions & infosec notes  
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK) – professional profile (Ahmad)  
+
+---
+
+## 🛠️ Tech & Tools
+- Linux • Bash • Python • Nmap • Burp Suite  
+- HTB • TryHackMe • CTFtime  
+- Always learning something new in infosec 🔭  
+
+---
+
+## 🤝 Connect with Me
+- 🌐 Medium: [@oxja](https://medium.com/@oxja)  
+- 💼 LinkedIn: [Ahmad](https://linkedin.com/in/YOUR-LINK)  
+- 🏴‍☠️ CTFtime: [oxja](https://ctftime.org/) *(if you have one)*  
+
+---
+
+✨ *“Breaking things apart to understand them, building things back to make them better.”*
+
