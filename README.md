@@ -36,12 +36,10 @@ I actively participate in CTF challenges and document my journey through **write
 ---
 
 ## 🎯 Platforms
-
-### TryHackMe
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/oxja.png)
-
-### HackTheBox
-[![HackTheBox Badge](https://www.hackthebox.com/badge/image/1674989)](https://app.hackthebox.com/profile/1674989)
+<p align="left">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</p>
 
 ---
 
