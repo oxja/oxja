@@ -29,8 +29,12 @@
 I actively participate in CTF challenges and document my journey through **writeups** to help others learn.  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <a href="https://tryhackme.com/p/oxja" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/1674989" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  </a>
 </p>
 
 ## 📫 Connect
