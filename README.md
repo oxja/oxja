@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad (aka <b>oxja</b>)</h1>
+<h1 align="center">Hi 👋, I'm Ahmad </h1>
 <h3 align="center">Infosec enthusiast | CTF player | Pentesting learner</h3>
 
 ---
