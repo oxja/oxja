@@ -15,8 +15,9 @@
 
 <p align="left">
   <a href="https://certs.ine.com/fdc1ad0e-91ff-4b99-9c8e-644f866c2ecd#acc.oqmzyaxt" target="_blank">
-    <img src="https://img.shields.io/badge/eJPT-orange?style=for-the-badge&labelColor=000000" alt="eJPT Certificate"/>
-  </a>
+  <img src="https://img.shields.io/badge/eJPT-Orange?style=for-the-badge&logo=&logoColor=000000" alt="eJPT Certificate"/>
+</a>
+
 </p>
 
 ---
