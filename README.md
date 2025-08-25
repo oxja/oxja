@@ -11,6 +11,15 @@
 
 ---
 
+## 🎓 Certifications & Courses
+
+<p align="left">
+  <a href="[https://www.elearnsecurity.com/course/ejpt/](https://certs.ine.com/fdc1ad0e-91ff-4b99-9c8e-644f866c2ecd#acc.oqmzyaxt)" target="_blank">
+    <img src="https://img.shields.io/badge/eJPT-007ACC?style=for-the-badge&logo=elearnsecurity&logoColor=white" alt="eJPT"/>
+  </a>
+
+---
+
 ## 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
