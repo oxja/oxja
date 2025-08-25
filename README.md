@@ -1,38 +1,52 @@
-# Hi, I'm Ahmad 👋 (aka *oxja*)
-
-💻 Infosec enthusiast | 🕵️‍♂️ CTF player | 🔐 Aspiring penetration tester  
-
-I enjoy solving Capture The Flag (CTF) challenges, breaking things to learn how they work, and documenting my journey through writeups and projects.  
-This GitHub is where I share scripts, notes, and tools that help me (and hopefully you) in the infosec space.
+<h1 align="center">Hi 👋, I'm Ahmad (aka <b>oxja</b>)</h1>
+<h3 align="center">Infosec enthusiast | CTF player | Pentesting learner</h3>
 
 ---
 
-## 🔥 What I Do
-- 📝 Writeups for CTF challenges  
-- ⚡ Small tools & scripts for pentesting and learning  
-- 📚 Notes & resources from my infosec journey  
+## 🚀 About Me
+- 💻 Passionate about **infosec & penetration testing**  
+- 🏴‍☠️ Love solving **CTFs** and writing detailed **writeups**  
+- 📚 Always learning and sharing knowledge  
+- ✍️ Writing on [Medium](https://medium.com/@oxja)  
+- 💼 Professional profile: [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 
 ---
 
-## 📌 Featured Work
-- [Medium Writeups](https://medium.com/@oxja) – step-by-step CTF solutions & infosec notes  
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK) – professional profile (Ahmad)  
+## 🛠️ Tools & Tech
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FB542B?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</p>
 
 ---
 
-## 🛠️ Tech & Tools
-- Linux • Bash • Python • Nmap • Burp Suite  
-- HTB • TryHackMe • CTFtime  
-- Always learning something new in infosec 🔭  
+## 📌 Featured
+- 📖 **CTF Writeups** → [Medium](https://medium.com/@oxja)  
+- 🛠️ **Scripts & Notes** → Stay tuned here on GitHub  
+- 🏴‍☠️ **CTFtime Profile** → [oxja](https://ctftime.org/) *(if you have one)*  
 
 ---
 
-## 🤝 Connect with Me
-- 🌐 Medium: [@oxja](https://medium.com/@oxja)  
-- 💼 LinkedIn: [Ahmad](https://linkedin.com/in/YOUR-LINK)  
-- 🏴‍☠️ CTFtime: [oxja](https://ctftime.org/) *(if you have one)*  
+## 📫 Connect
+<p align="left">
+  <a href="https://medium.com/@oxja" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/oxja" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ✨ *“Breaking things apart to understand them, building things back to make them better.”*
+
 
