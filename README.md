@@ -5,10 +5,9 @@
 
 ## 🚀 About Me
 - 💻 Passionate about **infosec & penetration testing**  
-- 🏴‍☠️ Love solving **CTFs** and writing detailed **writeups**  
-- 📚 Always learning and sharing knowledge  
-- ✍️ Writing on [Medium](https://medium.com/@oxja)  
-- 💼 Professional profile: [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- ⚡Tools & scripts for pentesting and learning
+- 📚 Always learning and sharing knowledge 
+- ✍️ Writing on [Medium](https://medium.com/@oxja)
 
 ---
 
@@ -29,30 +28,15 @@
 ## 🏴‍☠️ Capture The Flag (CTFs)
 I actively participate in CTF challenges and document my journey through **writeups** to help others learn.  
 
-- 📖 **CTF Writeups** → [Medium](https://medium.com/@oxja)  
-- 🏆 **CTFtime Profile** → [oxja](https://ctftime.org/) *(if you have one)*  
-- 💡 Focus: Web exploitation, enumeration, privilege escalation, and more.  
-
----
-
-## 🎯 Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
 
----
-
 ## 📫 Connect
 <p align="left">
-  <a href="https://medium.com/@oxja" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/ahmad-qawaqneh-05a519202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/oxja" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
