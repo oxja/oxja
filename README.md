@@ -12,23 +12,36 @@
 
 ---
 
-## 🛠️ Tools & Tech
+## 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rustscan-DEA584?style=for-the-badge&logo=rust&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FB542B?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
+
+*...and other tools from my infosec toolbox like Metasploit, Wireshark, Gobuster, Nikto, SQLmap, and more.*
 
 ---
 
-## 📌 Featured
+## 🏴‍☠️ Capture The Flag (CTFs)
+I actively participate in CTF challenges and document my journey through **writeups** to help others learn.  
+
 - 📖 **CTF Writeups** → [Medium](https://medium.com/@oxja)  
-- 🛠️ **Scripts & Notes** → Stay tuned here on GitHub  
-- 🏴‍☠️ **CTFtime Profile** → [oxja](https://ctftime.org/) *(if you have one)*  
+- 🏆 **CTFtime Profile** → [oxja](https://ctftime.org/) *(if you have one)*  
+- 💡 Focus: Web exploitation, enumeration, privilege escalation, and more.  
+
+---
+
+## 🎯 Platforms
+
+### TryHackMe
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/oxja.png)
+
+### HackTheBox
+[![HackTheBox Badge](https://www.hackthebox.com/badge/image/1674989)](https://app.hackthebox.com/profile/1674989)
 
 ---
 
@@ -48,5 +61,3 @@
 ---
 
 ✨ *“Breaking things apart to understand them, building things back to make them better.”*
-
-
