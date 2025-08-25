@@ -37,7 +37,7 @@ I actively participate in CTF challenges and document my journey through **write
   </a>
 </p>
 
-## 📫 Connect
+## 📫 Connect & CV
 <p align="left">
   <a href="https://linkedin.com/in/ahmad-qawaqneh-05a519202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
